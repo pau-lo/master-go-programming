@@ -1,0 +1,9 @@
+Constant values
+
+- Constant represents fixed values
+- used to avoid possible errors
+- all basic literals --> all unamed constants
+- A constant belongs to the compile time and it's created at compile time.  Thus, value
+  can't be change while the program is running
+- You can declare constants that store numbers, strings or booleans.
+
