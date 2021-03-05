@@ -1,0 +1,11 @@
+Operators
+
+In Go language
+
+
+- Arithmetic -> +, - ... etc
+- Assignment -> +=, -=
+- Increment and Decrement -> ++ , --
+- Comparison -> == . != <, >
+- Logical -> &&, ||
+- Operators for pointers (&) and channels (<-)
