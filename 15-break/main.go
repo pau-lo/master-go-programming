@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	count := 0
 
-	for i :=0; true; i++ {
+	for i := 0; true; i++ {
 		if i%13 == 0 {
 			fmt.Println("%d is divisible by 13 \n", i)
 			count++
