@@ -1,5 +1,4 @@
-Naming conventions
-+----------------------------
+## Naming conventions
 
 Naming conventions are important for code readability and maintainability
 
@@ -7,14 +6,15 @@ Naming conventions are important for code readability and maintainability
 - cases matter
 - Go keywords cannot be used as names
 - use the first letters of the words
-    i.e.
 
-    var mv int // mv -> max value
+For example:
+
+`var mv int // mv -> max value`
 
 - use fewer letter in smaller scopes and the complete word in larger scopes
 
-var packetsReceived int // Is not ok, too verbose
+`var packetsReceived int // Is not ok, too verbose`
 
-var n int // is ok.  number of packets Received
+`var n int // is ok.  number of packets Received`
 
-var taskDone bool // Is ok in letter scopes
+`var taskDone bool // Is ok in letter scopes`
